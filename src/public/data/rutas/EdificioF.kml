@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Edificio F.kml</name>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Edificio F</name>
+		<open>1</open>
+		<Placemark>
+			<name>Entrada</name>
+			<description>Entrada de la utng</description>
+			<LookAt>
+				<longitude>-100.9303725474444</longitude>
+				<latitude>21.16784591128552</latitude>
+				<altitude>0</altitude>
+				<heading>0.001670667328625305</heading>
+				<tilt>39.51583572139943</tilt>
+				<range>540.3740509758906</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.9322303186949,21.16773721454874,2.009855112836712</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>B</name>
+			<description>Punto b</description>
+			<LookAt>
+				<longitude>-100.9311972103187</longitude>
+				<latitude>21.16804623777107</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003294816749040577</heading>
+				<tilt>36.87276487881788</tilt>
+				<range>159.8030050542591</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.9311775062536,21.16764916138563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Edificio F</name>
+			<description>Entrada Edificio F</description>
+			<LookAt>
+				<longitude>-100.9303097652178</longitude>
+				<latitude>21.16786196481653</latitude>
+				<altitude>0</altitude>
+				<heading>-9.028476731971798e-06</heading>
+				<tilt>36.87276073427158</tilt>
+				<range>159.0338684711978</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.9298350966982,21.16759504917819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Edificio f</name>
+			<description>Ruta de la entrada al edificio f</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.9322445860137,21.16775869732142,0 -100.9318942864626,21.16771834212516,0 -100.9313436315472,21.16767600715889,0 -100.9311734233858,21.16766146597183,0 -100.9309536557732,21.1676292902713,0 -100.9306910569718,21.16760673338454,0 -100.9303438045118,21.16760673222556,0 -100.9300485101752,21.16757549556199,0 -100.9298572877916,21.16759011980727,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<gx:Tour>
+			<name>Edificio F</name>
+			<gx:Playlist>
+				<gx:FlyTo>
+					<gx:duration>10</gx:duration>
+					<LookAt>
+						<longitude>-100.9322445860137</longitude>
+						<latitude>21.16775869732142</latitude>
+						<altitude>0</altitude>
+						<heading>94.92153167724609</heading>
+						<tilt>60</tilt>
+						<range>100</range>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:FlyTo>
+					<gx:duration>3</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<LookAt>
+						<longitude>-100.9303172619138</longitude>
+						<latitude>21.16760392451102</latitude>
+						<altitude>0</altitude>
+						<heading>91.84325408935547</heading>
+						<tilt>60</tilt>
+						<range>100</range>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:FlyTo>
+					<gx:duration>0.7162323668661765</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<LookAt>
+						<longitude>-100.9298572877916</longitude>
+						<latitude>21.16759011980727</latitude>
+						<altitude>0</altitude>
+						<heading>91.84325408935547</heading>
+						<tilt>60</tilt>
+						<range>100</range>
+					</LookAt>
+				</gx:FlyTo>
+			</gx:Playlist>
+		</gx:Tour>
+	</Folder>
+</Document>
+</kml>

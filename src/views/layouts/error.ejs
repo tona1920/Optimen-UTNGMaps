@@ -1,0 +1,9 @@
+<%if (vali && vali.length>0) {%>
+    <% vali.forEach(function(error) { %>
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            <strong><%= error.msg %></strong> 
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">
+            </button>
+          </div>  
+     <% }); %> 
+  <% } %>

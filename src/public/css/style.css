@@ -1,0 +1,7 @@
+#map-template{
+    height: 91%;
+    width: 100%;
+    top: 9%;
+    position: absolute;
+    z-index: 2;
+}

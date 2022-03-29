@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Cafeteria.kml</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Cafeteria</name>
+		<open>1</open>
+		<Placemark>
+			<name>Entrada</name>
+			<description>Entrada de la universidad</description>
+			<LookAt>
+				<longitude>-100.9310398413609</longitude>
+				<latitude>21.16766709826615</latitude>
+				<altitude>0</altitude>
+				<heading>-6.439828091293255e-12</heading>
+				<tilt>45.00000000182445</tilt>
+				<range>1000.000222512775</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.9322535650977,21.16777992202005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>B</name>
+			<description>Punto b</description>
+			<LookAt>
+				<longitude>-100.9311972103187</longitude>
+				<latitude>21.16804623777107</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003294816749040577</heading>
+				<tilt>36.87276487881788</tilt>
+				<range>159.8030050542591</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.9311775062536,21.16764916138563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C</name>
+			<LookAt>
+				<longitude>-100.9311618389671</longitude>
+				<latitude>21.16743220852858</latitude>
+				<altitude>0</altitude>
+				<heading>-6.888934340669839e-05</heading>
+				<tilt>35.50544171446353</tilt>
+				<range>338.2263020339093</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.9311266358173,21.168121194153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cafeteria</name>
+			<LookAt>
+				<longitude>-100.9307874324102</longitude>
+				<latitude>21.16779359455207</latitude>
+				<altitude>0</altitude>
+				<heading>6.630792345675025e-05</heading>
+				<tilt>35.50542808932269</tilt>
+				<range>335.6139406365126</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.9307701992763,21.16812390172971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cafeteria</name>
+			<description>uta de la entrada a la cafeteria</description>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-100.932241592325,21.1677757251543,0 -100.9318678108039,21.16774671469603,0 -100.9313868450185,21.16770516015826,0 -100.9311630534534,21.16768302726115,0 -100.9311130430516,21.16811951037004,0 -100.9307859951031,21.16811281685278,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<gx:Tour>
+			<name>Cafeteria</name>
+			<gx:Playlist>
+				<gx:FlyTo>
+					<gx:duration>10</gx:duration>
+					<LookAt>
+						<longitude>-100.932241592325</longitude>
+						<latitude>21.1677757251543</latitude>
+						<altitude>0</altitude>
+						<heading>76.05307006835938</heading>
+						<tilt>60</tilt>
+						<range>100</range>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:FlyTo>
+					<gx:duration>2.909830885485342</gx:duration>
+					<gx:flyToMode>smooth</gx:flyToMode>
+					<LookAt>
+						<longitude>-100.9307859951031</longitude>
+						<latitude>21.16811281685278</latitude>
+						<altitude>0</altitude>
+						<heading>76.05307006835938</heading>
+						<tilt>60</tilt>
+						<range>100</range>
+					</LookAt>
+				</gx:FlyTo>
+			</gx:Playlist>
+		</gx:Tour>
+	</Folder>
+</Document>
+</kml>
