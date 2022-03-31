@@ -255,7 +255,6 @@ REQUERIMIENTOS FUNCIONALES
 REQUERIMIENTOS NO FUNCIONALES
 
 <table class="default">
-
   <tr>
     <th scope="row">Identificador</th>
     <th>RN01</th>
@@ -273,61 +272,137 @@ REQUERIMIENTOS NO FUNCIONALES
 </table>
 
 <table class="default">
-
   <tr>
     <th scope="row">Identificador</th>
-    <th>RN01</th>
+    <th>RN02</th>
   </tr>
   <tr>
     <th>Nombre </th>
-    <td>Cifrado de Datos</td>
+    <td>Actualización de la base de datos.</td>
   </tr>
   <tr>
     <th>Descripción</th>
     <td>
-<p>Precondición: Ingresar una contraseña la cual su extensión sea mayor a 6 caracteres.</p>
-<p>Descripción: El usuario deberá ingresar la contraseña para que el sistema realice la encriptación de esta misma.</p>
-<p>Postcondición: Se realizará la encriptación de la contraseña.</p>
+     Siempre que se realicen cambios en la página si es que estos tienen que ver con la base de datos todos los usuarios podrán ver los cambios en tiempo real.
 </td>
   </tr>
 </table>
 
 <table class="default">
-
   <tr>
     <th scope="row">Identificador</th>
-    <th>RN01</th>
+    <th>RN03</th>
   </tr>
   <tr>
     <th>Nombre </th>
-    <td>Cifrado de Datos</td>
+    <td>Actualización de los usuarios.</td>
   </tr>
   <tr>
     <th>Descripción</th>
     <td>
-<p>Precondición: Ingresar una contraseña la cual su extensión sea mayor a 6 caracteres.</p>
-<p>Descripción: El usuario deberá ingresar la contraseña para que el sistema realice la encriptación de esta misma.</p>
-<p>Postcondición: Se realizará la encriptación de la contraseña.</p>
+     Cuando un nuevo usuario sea creado éste podrá ingresar a la página y utilizar sus herramientas una vez su usuario haya sido admitido.
 </td>
   </tr>
 </table>
 
 <table class="default">
-
   <tr>
     <th scope="row">Identificador</th>
-    <th>RN01</th>
+    <th>RN04</th>
   </tr>
   <tr>
     <th>Nombre </th>
-    <td>Cifrado de Datos</td>
+    <td>Capacidad de los usuarios.</td>
   </tr>
   <tr>
     <th>Descripción</th>
     <td>
-<p>Precondición: Ingresar una contraseña la cual su extensión sea mayor a 6 caracteres.</p>
-<p>Descripción: El usuario deberá ingresar la contraseña para que el sistema realice la encriptación de esta misma.</p>
-<p>Postcondición: Se realizará la encriptación de la contraseña.</p>
+     La página podrá soportar un gran número de personas conectadas al mismo tiempo y realizando diversos cambios en ella.
+</td>
+  </tr>
+</table>
+
+<table class="default">
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RN05</th>
+  </tr>
+  <tr>
+    <th>Nombre </th>
+    <td>Permisos de acceso.</td>
+  </tr>
+  <tr>
+    <th>Descripción</th>
+    <td>
+    El administrador podrá cambiar los accesos a los usuarios y si es necesario los podrá eliminar.
+</td>
+  </tr>
+</table>
+
+<table class="default">
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RN06</th>
+  </tr>
+  <tr>
+    <th>Nombre </th>
+    <td>Respaldo del sistema.</td>
+  </tr>
+  <tr>
+    <th>Descripción</th>
+    <td>
+     Cada cierto tiempo se realizará un respaldo para que así no existan problemas en un futuro.
+</td>
+  </tr>
+</table>
+
+<table class="default">
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RN07</th>
+  </tr>
+  <tr>
+    <th>Nombre </th>
+    <td>Errores del programa.</td>
+  </tr>
+  <tr>
+    <th>Descripción</th>
+    <td>
+      Si se detecta algún fallo dentro de la página esta será deshabilitada hasta que se corrijan los errores.
+</td>
+  </tr>
+</table>
+
+<table class="default">
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RN08</th>
+  </tr>
+  <tr>
+    <th>Nombre </th>
+    <td>Uso de la página.</td>
+  </tr>
+  <tr>
+    <th>Descripción</th>
+    <td>
+      Un usuario no tardará más de 30 minutos en comprender por completo el uso de la página.
+</td>
+  </tr>
+</table>
+
+<table class="default">
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RN09</th>
+  </tr>
+  <tr>
+    <th>Nombre </th>
+    <td>Errores del usuario.</td>
+  </tr>
+  <tr>
+    <th>Descripción</th>
+    <td>
+     La página contará con nombres claros en las herramientas para que así el usuario entienda su funcionamiento más fácilmente.
 </td>
   </tr>
 </table>
