@@ -63,16 +63,46 @@ Requisitos.
 <p>En este punto el equipo decidió que llevaremos a cabo la primera opción que es el mapeo de nuestra propia Institución académica, la cual va ayudar mucho tanto a estudiantes de nuevo ingreso como a personas que quieran visitar la institución, el proyecto que vamos a implementar es un software que esté conectado con Google Earth y pueda enseñar rutas directas en la escuela la cual te puedan llevar de un punto a otro.</p>
 <p>De igual manera será una aplicación que puedan usar los estudiantes que ya conozcan la universidad, Dentro del mapeo que haremos existirán rutas para guiarnos dentro de la escuela también, se pondrán imágenes de los edificios donde se señalan los puntos de evacuación en caso de una emergencia( ya sea natural o de provocación humana).</p>
 <p>Está pensado para que sea una aplicación web, para que el usuario use la interfaz que se le haga más cómodo en su momento, que con ayuda de Google Earth se pueda ver las rutas que hay para cada edificio desde el instante que entras a la institución UTNG.</p>
-<p>Al igual que como una implementación que le agregaremos al proyecto podremos ver y analizar las áreas verdes comunes que hay dentro de la institución, proporcionaremos gráficas y mencionaremos con que software estamos obteniendo estos datos y cifras.
-Indicar la descripción del proyecto (tiempo, costo y calidad).</p>
+<p>Al igual que como una implementación que le agregaremos al proyecto podremos ver y analizar las áreas verdes comunes que hay dentro de la institución, proporcionaremos gráficas y mencionaremos con que software estamos obteniendo estos datos y cifras.</p>
+<p>En cuanto a tiempo se estimo un total de 2 semanas para la planeacion del proyecto y 10 semanas para el desarrollo del mismo, en cuanto a dinero nada mas se invirtio en dos cursos uno llamado Google Earth Pro. Llega a experto desde cero y QGIS & Google Earth Engine for Environmental Applications con un valor de 100 MXN.</p>
 
 <!-- Objetivos -->
 #### Objetivos.
-Indicar los objetivos del proyecto.
+<p>Objetivo general:</p>
+<p>El objetivo general que nosotros planteamos es el desarrollar una aplicación web que pueda ayudar a implementar varios softwares tales como google earth Engine, google maps, planet, en una solo aplicación y utilizando su api, todo esto enfocado a la universidad UTNG, con esta aplicación los usuarios tendrán acceso al software, donde podrán ver las rutas que hay para cada edificio de la universidad y la rutas mas rapida para llegar desde el momento en que entran.</p>
+<p>Objetivos específicos:</p>
+<p>Que la aplicación web pueda crear rutas para todos los edificios de la UTNG y que dentro del edificio a través de imágenes se pueda apreciar los puntos de acceso y los puntos de salida rápida. Al igual que pueda mostrar las áreas verdes comunes que tiene la escuela.</p>
 
 <!-- Organigrama -->
 #### Organigrama.
-Organigrama.
+<h1>Ocupacion</h1>
+<table class="default">
+
+  <tr>
+    <th scope="row">INTEGRANTE</th>
+    <th>ROL</th>
+  </tr>
+
+  <tr>
+    <th>Alexander Alonso Rodriguez</th>
+    <td>Lider, Programador, Project Management y Tester.</td>
+  </tr>
+<tr>
+    <th>Gerardo Tonathiu Rojas</th>
+    <td>Programador, Analista y DevOps.</td>
+  </tr>
+
+  <tr>
+    <th>Andrés Arredondo Escalante</th>
+    <td>Programador y Tester.</td>
+  </tr>
+  
+   <tr>
+    <th>José Israel Saldaña Godinez</th>
+    <td>Programador y Analista.</td>
+  </tr>
+
+</table>
 
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
@@ -90,8 +120,6 @@ Listado de los requerimientos (código requerimiento, descripción)
 #### Diagrama Casos de Uso.
 Agregar la imagen de los Casos de Uso.
 
-
-
 <!-- Diseño del proyecto -->
 ## Diseño de la Solución.
 En ésta sección se indicará los artefactos generados en base a la solución.
@@ -107,7 +135,6 @@ Esquema de las clases empleadas (atributos y sus métodos).
 <!-- Diagrama de Componentes -->
 #### Diagrama de Componentes.
 Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servidor Web, Servidor de base de datos)
-
 
 <!-- Implementación del proyecto -->
 ## Implementación.
@@ -125,7 +152,6 @@ Definir los patrones empleados y de seguridad.
 #### Código Fuente.
 Código Fuente de la solución
 
-
 <!-- Pruebas proyecto -->
 ## Pruebas.
 En ésta sección se describe  los artefactos generados en base a la solución.
@@ -138,7 +164,6 @@ Indicar los casos de prueba
 #### Ejecución.
 Evidencia de Ejecución de Casos de prueba.
 
-
 <!-- Iniciando -->
 ## Iniciando
 Iniciando.
@@ -150,7 +175,6 @@ Requisitos de Instalación.
 <!-- Instalación -->
 ### Instalacion
 Instalación del Software
-
 
 ## Guias
 Guias de Uso.
