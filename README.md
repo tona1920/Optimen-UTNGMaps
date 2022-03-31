@@ -75,7 +75,6 @@ Requisitos.
 
 <!-- Organigrama -->
 #### Organigrama.
-<h1>Ocupacion</h1>
 <table class="default">
 
   <tr>
@@ -114,7 +113,31 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Requerimientos -->
 #### Requerimientos.
-Listado de los requerimientos (código requerimiento, descripción)
+Requerimientos Funcionales
+
+<table class="default">
+
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RF01</th>
+  </tr>
+
+  <tr>
+    <th>Nombre </th>
+    <td>Registro de Usuarios</td>
+  </tr>
+<tr>
+    <th>Descripción</th>
+    <td>
+      <p>Precondición: Se debe disponer con un correo y contraseña válida y disponible. </p>
+
+ <p>Descripción: Se registrará en el sistema toda la información necesaria para llevar a cabo el registro de una persona. </p>
+
+ <p>Postcondición: Se realizará el registro de una persona. </p>
+</td>
+  </tr>
+</table>
+
 
 <!-- Diagrama de Casos de Uso -->
 #### Diagrama Casos de Uso.
