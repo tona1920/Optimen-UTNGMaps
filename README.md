@@ -479,6 +479,7 @@ Contribucion.
 Licencia.
 
 ## Contacto
+<p>Administrador</p>
 <p>Telefono: +52 418 152 0771</p>
 Correo: ar2782819@gmail.com
 
