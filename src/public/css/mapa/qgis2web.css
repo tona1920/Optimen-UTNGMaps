@@ -34,7 +34,7 @@
         .leaflet-tooltip-left:before, .leaflet-tooltip-right:before {
             border: 0px;
         }
-        .fa, .leaflet-container, a {
+        .fa, .leaflet-container { /*, a*//*Si se agrega el nadvar queda de color negro*/
             color: #000000 !important;
         }
         .leaflet-control-zoom-in, .leaflet-control-zoom-out,
@@ -130,3 +130,4 @@
         .leaflet-control-layers {
             opacity: 80%;
         }
+
