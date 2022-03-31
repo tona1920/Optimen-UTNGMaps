@@ -113,7 +113,7 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Requerimientos -->
 #### Requerimientos.
-Requerimientos Funcionales
+REQUERIMIENTOS FUNCIONALES
 
 <table class="default">
 
@@ -167,19 +167,16 @@ Requerimientos Funcionales
     <th scope="row">Identificador</th>
     <th>RF03</th>
   </tr>
-
   <tr>
     <th>Nombre </th>
     <td>Cifrado de Datos</td>
   </tr>
-<tr>
+  <tr>
     <th>Descripción</th>
     <td>
-      <p>Precondición: Ingresar una contraseña la cual su extensión sea mayor a 6 caracteres.</p>
-
- <p>Descripción: El usuario deberá ingresar la contraseña para que el sistema realice la encriptación de esta misma.</p>
-
- <p>Postcondición: Se realizará la encriptación de la contraseña.</p>
+<p>Precondición: Ingresar una contraseña la cual su extensión sea mayor a 6 caracteres.</p>
+<p>Descripción: El usuario deberá ingresar la contraseña para que el sistema realice la encriptación de esta misma.</p>
+<p>Postcondición: Se realizará la encriptación de la contraseña.</p>
 </td>
   </tr>
 </table>
@@ -251,6 +248,86 @@ Requerimientos Funcionales
  <p>Descripción: El usuario del sistema podrá realizar la consulta de las rutas que tiene el edificio seleccionado de la UTNG.</p>
 
  <p>Postcondición: Se realizará el mapeo de las rutas que contiene el edificio seleccionado</p>
+</td>
+  </tr>
+</table>
+
+REQUERIMIENTOS NO FUNCIONALES
+
+<table class="default">
+
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RN01</th>
+  </tr>
+  <tr>
+    <th>Nombre </th>
+    <td>Uso de NodeJS.</td>
+  </tr>
+  <tr>
+    <th>Descripción</th>
+    <td>
+      El software deberá ser realizado mediante el entorno NodeJS y aunque no sea una restricción puede existir alguna herramienta que no podamos utilizar.
+</td>
+  </tr>
+</table>
+
+<table class="default">
+
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RN01</th>
+  </tr>
+  <tr>
+    <th>Nombre </th>
+    <td>Cifrado de Datos</td>
+  </tr>
+  <tr>
+    <th>Descripción</th>
+    <td>
+<p>Precondición: Ingresar una contraseña la cual su extensión sea mayor a 6 caracteres.</p>
+<p>Descripción: El usuario deberá ingresar la contraseña para que el sistema realice la encriptación de esta misma.</p>
+<p>Postcondición: Se realizará la encriptación de la contraseña.</p>
+</td>
+  </tr>
+</table>
+
+<table class="default">
+
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RN01</th>
+  </tr>
+  <tr>
+    <th>Nombre </th>
+    <td>Cifrado de Datos</td>
+  </tr>
+  <tr>
+    <th>Descripción</th>
+    <td>
+<p>Precondición: Ingresar una contraseña la cual su extensión sea mayor a 6 caracteres.</p>
+<p>Descripción: El usuario deberá ingresar la contraseña para que el sistema realice la encriptación de esta misma.</p>
+<p>Postcondición: Se realizará la encriptación de la contraseña.</p>
+</td>
+  </tr>
+</table>
+
+<table class="default">
+
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RN01</th>
+  </tr>
+  <tr>
+    <th>Nombre </th>
+    <td>Cifrado de Datos</td>
+  </tr>
+  <tr>
+    <th>Descripción</th>
+    <td>
+<p>Precondición: Ingresar una contraseña la cual su extensión sea mayor a 6 caracteres.</p>
+<p>Descripción: El usuario deberá ingresar la contraseña para que el sistema realice la encriptación de esta misma.</p>
+<p>Postcondición: Se realizará la encriptación de la contraseña.</p>
 </td>
   </tr>
 </table>
