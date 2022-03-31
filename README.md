@@ -10,12 +10,6 @@
       <a href="#acerca-del-proyecto">Acerca del Proyecto</a>
       <ul>
         <li><a href="#descripción">Descripción</a></li>
-        <p>En esta ocasión decidimos optar por la opción que nos ofrecía la empresa Optimen la cual constaba de dos proyectos, el primero era el mapeo e identificación de rutas que tiene la UTNG y el segundo era la detección de vuelos a través de Google Earth.
-En este punto el equipo decidió que llevaremos a cabo la primera opción que es el mapeo de nuestra propia Institución académica, la cual va ayudar mucho tanto a estudiantes de nuevo ingreso como a personas que quieran visitar la institución, el proyecto que vamos a implementar es un software que esté conectado con Google Earth y pueda enseñar rutas directas en la escuela la cual te puedan llevar de un punto a otro.
-De igual manera será una aplicación que puedan usar los estudiantes que ya conozcan la universidad, Dentro del mapeo que haremos existirán rutas para guiarnos dentro de la escuela también, se pondrán imágenes de los edificios donde se señalan los puntos de evacuación en caso de una emergencia( ya sea natural o de provocación humana).
-Está pensado para que sea una aplicación web, para que el usuario use la interfaz que se le haga más cómodo en su momento, que con ayuda de Google Earth se pueda ver las rutas que hay para cada edificio desde el instante que entras a la institución UTNG.
-Al igual que como una implementación que le agregaremos al proyecto podremos ver y analizar las áreas verdes comunes que hay dentro de la institución, proporcionaremos gráficas y mencionaremos con que software estamos obteniendo estos datos y cifras.
-</p>
         <li><a href="#objetivos">Objetivos</a></li>
         <li><a href="#organigrama">Organigrama</a></li>
         <li><a href="#diagrama-gantt">Diagrama Gantt</a></li>
@@ -65,6 +59,11 @@ Requisitos.
 
 <!-- Descripción -->
 #### Descripción.
+En esta ocasión decidimos optar por la opción que nos ofrecía la empresa Optimen la cual constaba de dos proyectos, el primero era el mapeo e identificación de rutas que tiene la UTNG y el segundo era la detección de vuelos a través de Google Earth.
+En este punto el equipo decidió que llevaremos a cabo la primera opción que es el mapeo de nuestra propia Institución académica, la cual va ayudar mucho tanto a estudiantes de nuevo ingreso como a personas que quieran visitar la institución, el proyecto que vamos a implementar es un software que esté conectado con Google Earth y pueda enseñar rutas directas en la escuela la cual te puedan llevar de un punto a otro.
+De igual manera será una aplicación que puedan usar los estudiantes que ya conozcan la universidad, Dentro del mapeo que haremos existirán rutas para guiarnos dentro de la escuela también, se pondrán imágenes de los edificios donde se señalan los puntos de evacuación en caso de una emergencia( ya sea natural o de provocación humana).
+Está pensado para que sea una aplicación web, para que el usuario use la interfaz que se le haga más cómodo en su momento, que con ayuda de Google Earth se pueda ver las rutas que hay para cada edificio desde el instante que entras a la institución UTNG.
+Al igual que como una implementación que le agregaremos al proyecto podremos ver y analizar las áreas verdes comunes que hay dentro de la institución, proporcionaremos gráficas y mencionaremos con que software estamos obteniendo estos datos y cifras.
 Indicar la descripción del proyecto (tiempo, costo y calidad).
 
 <!-- Objetivos -->
