@@ -479,8 +479,8 @@ Contribucion.
 Licencia.
 
 ## Contacto
-Contacto.
-
+<p>Telefono: +52 418 152 0771</p>
+<p>Correo: ar2782819@gmail.com</p>
 ## Participantes
 * [Alexander Alonso](https://github.com/AlexAlonRo)
 * [Andres Arredondo](https://github.com/AndresArrEsc)
