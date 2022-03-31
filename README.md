@@ -138,6 +138,124 @@ Requerimientos Funcionales
   </tr>
 </table>
 
+<table class="default">
+
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RF02</th>
+  </tr>
+
+  <tr>
+    <th>Nombre </th>
+    <td>Inicio de Sesión </td>
+  </tr>
+<tr>
+    <th>Descripción</th>
+    <td>
+      <p>Precondición: Se debe tener una cuenta previamente registrada. </p>
+
+ <p>Descripción: Se debe ingresar la información(correo electrónico y contraseña) correcta de la cuenta.</p>
+
+ <p>Postcondición: El usuario tendrá acceso al sistema.</p>
+</td>
+  </tr>
+</table>
+
+<table class="default">
+
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RF03</th>
+  </tr>
+
+  <tr>
+    <th>Nombre </th>
+    <td>Cifrado de Datos</td>
+  </tr>
+<tr>
+    <th>Descripción</th>
+    <td>
+      <p>Precondición: Ingresar una contraseña la cual su extensión sea mayor a 6 caracteres.</p>
+
+ <p>Descripción: El usuario deberá ingresar la contraseña para que el sistema realice la encriptación de esta misma.</p>
+
+ <p>Postcondición: Se realizará la encriptación de la contraseña.</p>
+</td>
+  </tr>
+</table>
+
+
+<table class="default">
+
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RF04</th>
+  </tr>
+
+  <tr>
+    <th>Nombre </th>
+    <td>Consulta de Edificios</td>
+  </tr>
+<tr>
+    <th>Descripción</th>
+    <td>
+      <p>Precondición: Estar logueado en la aplicación. </p>
+
+ <p>Descripción: El usuario del sistema podrá realizar la consulta de algún edificio de la UTNG.</p>
+
+ <p>Postcondición: Se realizará el mapeo de la ruta para llegar a el edificio seleccionado</p>
+</td>
+  </tr>
+</table>
+
+
+<table class="default">
+
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RF05</th>
+  </tr>
+
+  <tr>
+    <th>Nombre </th>
+    <td>Consulta de Áreas Verdes</td>
+  </tr>
+<tr>
+    <th>Descripción</th>
+    <td>
+      <p>Precondición: Estar logueado en la aplicación. </p>
+
+ <p>Descripción: El usuario podrá realizar consultas sobre las áreas verdes que cuenta la UTNG.</p>
+
+ <p>Postcondición: El usuario tendrá información de manera gráfica en donde se especifique el relieve de la región(UTNG).</p>
+</td>
+  </tr>
+</table>
+
+<table class="default">
+
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RF06</th>
+  </tr>
+
+  <tr>
+    <th>Nombre </th>
+    <td>Consulta de Rutas</td>
+  </tr>
+<tr>
+    <th>Descripción</th>
+    <td>
+      <p>Precondición: Estar logueado en la aplicación. Selección de un edificio perteneciente a la UTNG.</p>
+
+ <p>Descripción: El usuario del sistema podrá realizar la consulta de las rutas que tiene el edificio seleccionado de la UTNG.</p>
+
+ <p>Postcondición: Se realizará el mapeo de las rutas que contiene el edificio seleccionado</p>
+</td>
+  </tr>
+</table>
+
+
 
 <!-- Diagrama de Casos de Uso -->
 #### Diagrama Casos de Uso.
