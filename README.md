@@ -165,7 +165,7 @@ REQUERIMIENTOS FUNCIONALES
 
   <tr>
     <th scope="row">Identificador</th>
-    <th>RF04</th>
+    <th>RF03</th>
   </tr>
 
   <tr>
@@ -189,7 +189,7 @@ REQUERIMIENTOS FUNCIONALES
 
   <tr>
     <th scope="row">Identificador</th>
-    <th>RF05</th>
+    <th>RF04</th>
   </tr>
 
   <tr>
@@ -212,7 +212,7 @@ REQUERIMIENTOS FUNCIONALES
 
   <tr>
     <th scope="row">Identificador</th>
-    <th>RF06</th>
+    <th>RF05</th>
   </tr>
 
   <tr>
@@ -234,7 +234,7 @@ REQUERIMIENTOS FUNCIONALES
 <table class="default">
   <tr>
     <th scope="row">Identificador</th>
-    <th>RF07</th>
+    <th>RF06</th>
   </tr>
   <tr>
     <th>Nombre </th>
