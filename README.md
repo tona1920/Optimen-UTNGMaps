@@ -20,6 +20,7 @@
       <ul>
         <li><a href="#requerimientos">Requerimientos</a></li>
         <li><a href="#diagrama-casos-de-uso">Diagrama de Casos de Uso</a></li>
+        ![Diagrama1](https://user-images.githubusercontent.com/90641514/161345035-64227b62-55a8-463c-ae08-29c5a1cff38a.png)
       </ul>
     </li>
     <li>
