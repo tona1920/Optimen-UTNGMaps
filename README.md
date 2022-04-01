@@ -165,27 +165,6 @@ REQUERIMIENTOS FUNCIONALES
 
   <tr>
     <th scope="row">Identificador</th>
-    <th>RF03</th>
-  </tr>
-  <tr>
-    <th>Nombre </th>
-    <td>Cifrado de Datos</td>
-  </tr>
-  <tr>
-    <th>Descripción</th>
-    <td>
-<p>Precondición: Ingresar una contraseña la cual su extensión sea mayor a 6 caracteres.</p>
-<p>Descripción: El usuario deberá ingresar la contraseña para que el sistema realice la encriptación de esta misma.</p>
-<p>Postcondición: Se realizará la encriptación de la contraseña.</p>
-</td>
-  </tr>
-</table>
-
-
-<table class="default">
-
-  <tr>
-    <th scope="row">Identificador</th>
     <th>RF04</th>
   </tr>
 
@@ -252,6 +231,23 @@ REQUERIMIENTOS FUNCIONALES
   </tr>
 </table>
 
+<table class="default">
+  <tr>
+    <th scope="row">Identificador</th>
+    <th>RF07</th>
+  </tr>
+  <tr>
+    <th>Nombre </th>
+    <td>Permisos de acceso.</td>
+  </tr>
+  <tr>
+    <th>Descripción</th>
+    <td>
+    El administrador podrá cambiar los accesos a los usuarios y si es necesario los podrá eliminar.
+</td>
+  </tr>
+</table>
+
 REQUERIMIENTOS NO FUNCIONALES
 
 <table class="default">
@@ -312,7 +308,7 @@ REQUERIMIENTOS NO FUNCIONALES
   </tr>
   <tr>
     <th>Nombre </th>
-    <td>Capacidad de los usuarios.</td>
+    <td>Concurrencia.</td>
   </tr>
   <tr>
     <th>Descripción</th>
@@ -329,23 +325,6 @@ REQUERIMIENTOS NO FUNCIONALES
   </tr>
   <tr>
     <th>Nombre </th>
-    <td>Permisos de acceso.</td>
-  </tr>
-  <tr>
-    <th>Descripción</th>
-    <td>
-    El administrador podrá cambiar los accesos a los usuarios y si es necesario los podrá eliminar.
-</td>
-  </tr>
-</table>
-
-<table class="default">
-  <tr>
-    <th scope="row">Identificador</th>
-    <th>RN06</th>
-  </tr>
-  <tr>
-    <th>Nombre </th>
     <td>Respaldo del sistema.</td>
   </tr>
   <tr>
@@ -359,7 +338,7 @@ REQUERIMIENTOS NO FUNCIONALES
 <table class="default">
   <tr>
     <th scope="row">Identificador</th>
-    <th>RN07</th>
+    <th>RN06</th>
   </tr>
   <tr>
     <th>Nombre </th>
@@ -376,7 +355,7 @@ REQUERIMIENTOS NO FUNCIONALES
 <table class="default">
   <tr>
     <th scope="row">Identificador</th>
-    <th>RN08</th>
+    <th>RN07</th>
   </tr>
   <tr>
     <th>Nombre </th>
@@ -385,29 +364,30 @@ REQUERIMIENTOS NO FUNCIONALES
   <tr>
     <th>Descripción</th>
     <td>
-      Un usuario no tardará más de 30 minutos en comprender por completo el uso de la página.
+      Un usuario no tardará más de 30 minutos en comprender por completo el uso de la página. La página contará con nombres claros en las herramientas para que así el usuario entienda su funcionamiento más fácilmente.
 </td>
   </tr>
 </table>
 
 <table class="default">
+
   <tr>
     <th scope="row">Identificador</th>
-    <th>RN09</th>
+    <th>RN08</th>
   </tr>
   <tr>
     <th>Nombre </th>
-    <td>Errores del usuario.</td>
+    <td>Cifrado de Datos</td>
   </tr>
   <tr>
     <th>Descripción</th>
     <td>
-     La página contará con nombres claros en las herramientas para que así el usuario entienda su funcionamiento más fácilmente.
+<p>Precondición: Ingresar una contraseña la cual su extensión sea mayor a 6 caracteres.</p>
+<p>Descripción: El usuario deberá ingresar la contraseña para que el sistema realice la encriptación de esta misma.</p>
+<p>Postcondición: Se realizará la encriptación de la contraseña.</p>
 </td>
   </tr>
 </table>
-
-
 
 <!-- Diagrama de Casos de Uso -->
 #### Diagrama Casos de Uso.
