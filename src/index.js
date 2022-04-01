@@ -35,7 +35,7 @@ app.use(session({
   secret: 'mysecretsession',
   resave: true,
   saveUninitialized: true,
-  store: MongoStore.create({ mongoUrl:'mongodb+srv://gds05:gds05@cluster0.enacp.mongodb.net/maps?retryWrites=true&w=majority'}),
+  store: MongoStore.create({ mongoUrl:'mongodb+srv://gds05:gds05@cluster0.enacp.mongodb.net/maps?retryWrites=true&w=majority'}),//mongodb+srv://gds05:gds05@cluster0.enacp.mongodb.net/maps?retryWrites=true&w=majority
 }));
 app.use(passport.initialize());
 app.use(passport.session());

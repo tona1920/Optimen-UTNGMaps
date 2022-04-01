@@ -1,0 +1,81 @@
+<div class="container">
+          
+    <div class="row">
+        <div class="col">
+            <div class="col-md-5 mx-auto" id="registro">
+                <div class="card" id="sombra">
+                  <div class="card-header" style="text-align:left">
+                    <div class="row">
+                      <div class="col">
+                        <img src="/img/logo_optimen.png" style="width: 25%; margin-left:28%;" alt="Optimen">
+                      </div>
+                      <div class="col" style="margin-top: 5%; margin-left: -30%;">
+                        <h3>Registro de Cuenta</h3>
+                      </div>
+                    </div>
+                  </div>
+                  <%- include('../layouts/error') %>
+                  <div class="card-body">
+                    
+                        <div class="form-floating mb-3">
+                          <input type="text" class="form-control" name="name" id="name" placeholder="Name" value="<%= typeof name != 'undefined' ? name : '' %>">
+                          <label for="floatingInput"><i class="fas fa-user"></i> &nbsp;Nombre del Usuario</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                          <input type="email" class="form-control" name="email" id="email" placeholder="Email" value="<%= typeof email != 'undefined' ? email : '' %>">
+                          <label for="floatingInput"><i class="fas fa-envelope"></i>&nbsp;Correo Electronico</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                          <input type="password" class="form-control" id="password" name="password" placeholder="Password">
+                          <label for="floatingInput"><i class="fas fa-lock"></i>&nbsp;Contraseña</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                          <input type="password" class="form-control" id="confirm_password" name="confirm_password" placeholder="Confirm Password">
+                          <label for="floatingInput"><i class="fas fa-lock"></i>&nbsp;Confirmar Contraseña</label>
+                        </div>
+                        <a class="nav-link active " style="text-align: center;" aria-current="page" href="/users/signin">Ya tienes cuenta? Inicia sesión</a>
+                        <br>
+
+                          
+                        </form>
+                  </div>
+                </div>
+              </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="container float-center">
+  <div class="row mb-4 float-center">
+      <div class="col float-center">
+          <div id="carouselExampleControls" class="carousel slide float-center" data-bs-ride="carousel">
+              <div class="carousel-inner mt-4 float-center">
+                  <div class="carousel-item active" data-bs-interval="50">
+                      <img src="https://s1.eestatic.com/2020/04/18/omicrono/software/google-coronavirus-educacion_483462743_150541387_1706x960.jpg"
+                          class="d-block w-100" alt="dos">
+                  </div>
+                  <div class="carousel-item" data-bs-interval="50">
+                      <img src="/img/optimen.jpg"
+                          class="d-block w-100" alt="uno" >
+                  </div>
+                  <div class="carousel-item" data-bs-interval="50">
+                      <img src="https://lh3.googleusercontent.com/p/AF1QipOnYdidaOwqSjY-ae109lOFABtip1E3HvVoQlnx=w600-k"
+                          class="d-block w-100" alt="cuatro">
+                  </div>
+              </div>
+              <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+                  data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
+                  data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+              </button>
+          </div>
+      </div>
+
+  </div>
+</div>

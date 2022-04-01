@@ -17,14 +17,19 @@ exports.renderSigninForm = (req, res) => res.render("users/signin");
 exports.signin = passport.authenticate("local", {
     successRedirect: "/home",
     failureRedirect: "/users/signin",
-    failureFlash: true,
+    failureFlash: "Datos Incorrectos",
 });
 
 exports.singup = async (req, res) => {
     const { name, email, password, confirm_password } = req.body;
     let vali = [];
-    if (name.length < 6) {
-        vali.push({ msg: "El nombre es muy corto." });
+    if(name.length < 6 && password.length < 6 &&  confirm_password.length < 6){
+        vali.push({ msg: "Formulario Vacio" });
+        res.render('users/signup', { vali, name, email });
+        return;
+    }
+    if (name.length < 6 || name.length>20) {
+        vali.push({ msg: "El nombre es invalido." });
         res.render('users/signup', { vali, name, email });
         return;
     }
@@ -58,7 +63,7 @@ exports.singup = async (req, res) => {
     console.log(emailUser);
 
     if (emailUser) {
-        vali.push({ msg: "The Email is already in use." });
+        vali.push({ msg: "El email esta en uso." });
         res.render('users/signup', { vali, name, email });
 
         return;
@@ -67,7 +72,7 @@ exports.singup = async (req, res) => {
         const newUser = await new User({ name, email, password });
         newUser.password = await newUser.encryptPassword(password);
         await newUser.save();
-        req.flash("success_msg", "You are registered.");
+        req.flash("success_msg", "Usted se ha registrado con exito.");
         res.redirect("/users/signin");
     }
 };
@@ -78,7 +83,7 @@ exports.renderPerfil = (req, res) => {
 
 exports.logout = (req, res) => {
     req.logout();
-    req.flash("success_msg", "You are logged out now.");
+    req.flash("success_msg", "Ya has cerrado la sesión.");
     res.redirect("/users/signin");
 };
 
@@ -207,7 +212,7 @@ exports.createNewUser = async (req, res) => {
     console.log(emailUser);
 
     if (emailUser) {
-        vali.push({ msg: "The Email is already in use." });
+        vali.push({ msg: "El email esta en uso." });
         res.render('users/createUser', { vali, name, email });
 
         return;
@@ -216,7 +221,7 @@ exports.createNewUser = async (req, res) => {
         const newUser = await new User({ name, email, password, admin });
         newUser.password = await newUser.encryptPassword(password);
         await newUser.save();
-        req.flash("success_msg", "You are registered.");
+        req.flash("success_msg", "Usted se ha registrado con exito.");
         res.redirect("/users");
     }
 };

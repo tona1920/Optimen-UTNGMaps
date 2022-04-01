@@ -1,0 +1,17 @@
+
+body {
+    background: url("https://i.pinimg.com/564x/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+
+  }
+.carousel-inner{
+  align-items: center;
+  margin-top: 3%;  
+}
+.carousel-item img{
+  width: 100%;
+  max-height: 100%;
+  height: 550px;
+}
