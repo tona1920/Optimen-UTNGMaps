@@ -454,6 +454,7 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 <!-- Casos de prueba -->
 #### Casos de prueba.
 Indicar los casos de prueba
+Inicio de seion
 
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
