@@ -19,8 +19,10 @@
       <a href="#análisis-de-la-solución">Análisis de la Solución</a>
       <ul>
         <li><a href="#requerimientos">Requerimientos</a></li>
-        <li><a href="#diagrama-casos-de-uso">Diagrama de Casos de Uso</a></li>
-        ![Diagrama1](https://user-images.githubusercontent.com/90641514/161345035-64227b62-55a8-463c-ae08-29c5a1cff38a.png)
+        <li><a href="#diagrama-casos-de-uso">Diagrama de Casos de Uso</a>
+        
+        </li>
+
       </ul>
     </li>
     <li>
@@ -392,7 +394,8 @@ REQUERIMIENTOS NO FUNCIONALES
 
 <!-- Diagrama de Casos de Uso -->
 #### Diagrama Casos de Uso.
-Agregar la imagen de los Casos de Uso.
+![Diagrama1](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
+
 
 <!-- Diseño del proyecto -->
 ## Diseño de la Solución.
