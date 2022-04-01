@@ -428,7 +428,7 @@ Esquema de las clases empleadas (atributos y sus métodos).
 <!-- Diagrama de Componentes -->
 #### Diagrama de Componentes.
 Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servidor Web, Servidor de base de datos)
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/diagrama de comp.png)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/diagrama.png)
 
 <!-- Implementación del proyecto -->
 ## Implementación.
