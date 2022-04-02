@@ -19,10 +19,7 @@
       <a href="#análisis-de-la-solución">Análisis de la Solución</a>
       <ul>
         <li><a href="#requerimientos">Requerimientos</a></li>
-        <li><a href="#diagrama-casos-de-uso">Diagrama de Casos de Uso</a>
-        
-        </li>
-
+        <li><a href="#diagrama-casos-de-uso">Diagrama de Casos de Uso</a></li>
       </ul>
     </li>
     <li>
@@ -55,6 +52,7 @@
     <li><a href="#participantes">Participantes</a></li>
   </ol>
 </details>
+
 
 <!-- Acerca del proyecto -->
 ## Acerca del proyecto
