@@ -109,6 +109,7 @@ Requisitos.
 <!-- Diagrama Gantt -->
 #### Diagrama Gantt.
 Diagrama Gantt.
+[diagrama de gant.xlsx](https://github.com/tona1920/Optimen_UTNGMaps/files/8401886/diagrama.de.gant.xlsx)
 
 <!-- Análisis del proyecto -->
 ## Análisis de la Solución.
