@@ -2117,16 +2117,16 @@ REQUERIMIENTOS FUNCIONALES
 
   <tr>
     <th>Nombre </th>
-    <td>Consulta de Áreas Verdes</td>
+    <td>Consulta de Densidad Poblacional</td>
   </tr>
 <tr>
     <th>Descripción</th>
     <td>
       <p>Precondición: Estar logueado en la aplicación. </p>
 
- <p>Descripción: El usuario podrá realizar consultas sobre las áreas verdes que cuenta la UTNG.</p>
+ <p>Descripción: El usuario podrá realizar consultas sobre la densidad poblacional por metro cuadrado de cada estado de México.</p>
 
- <p>Postcondición: El usuario tendrá información de manera gráfica en donde se especifique el relieve de la región(UTNG).</p>
+ <p>Postcondición: El usuario tendrá información de manera gráfica en donde se especifique el la densidad poblacional y un identificador de cada Estado.</p>
 </td>
   </tr>
 </table>
