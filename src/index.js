@@ -11,6 +11,7 @@ const MongoStore = require('connect-mongo');
 const http = require('http');
 const socketIO = require('socket.io');
 
+const create = require('./libs/createUser');
 const indexRoutes = require ('./routes/index');
 const userRoutes = require ('./routes/users');
 const mapsRoutes = require ('./routes/maps');
@@ -20,6 +21,7 @@ const app = express();
 require('./database');
 const server = http.Server(app);
 const io = socketIO(server);
+create.createAdminUser();
 
 // Settings
 app.set('port', process.env.PORT || 5000);
@@ -69,5 +71,6 @@ app.use((req, res) => {
 server.listen(app.get('port'), () => {
   console.log('server on port', app.get('port'));
 });
+
 
 
