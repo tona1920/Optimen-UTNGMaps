@@ -2325,6 +2325,7 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 #### Modelo Relacional.
 Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc)
 
+
 <!-- Diagrama de Clases -->
 #### Diagrama de Clases.
 Esquema de las clases empleadas (atributos y sus métodos).
@@ -2531,7 +2532,7 @@ Indicar los casos de prueba
 #### Ejecución.
 Evidencia de Ejecución de Casos de prueba.
 <p>001_Regsitro</p>
-![Dia1](https://github.com/AlexAlonRo/Modelado-3D/blob/main/1.png)
+![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
 ![Dia2](https://github.com/AlexAlonRo/Modelado-3D/blob/main/2.png)
 <p>002_Login</p>
 ![Dia3](https://github.com/AlexAlonRo/Modelado-3D/blob/main/3.png)
