@@ -2530,16 +2530,23 @@ Indicar los casos de prueba
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
 Evidencia de Ejecución de Casos de prueba.
-
-![Diagrama1](https://drive.google.com/drive/u/0/folders/1qSOnCFVRic4JryFsIl6RkxlX2umSEqOv)
-![Diagrama12](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
-![Diagrama3](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
-![Diagrama4](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
-![Diagrama5](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
-![Diagrama6](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
-![Diagrama7](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
-![Diagrama8](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
-![Diagrama9](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
+<p>001_Regsitro</p>
+![Diagrama1]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/1.png)
+![Diagrama2]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/2.png)
+<p>002_Login</p>
+![Diagrama3]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/3.png)
+<p>003_Menu lateral</p>
+![Diagrama4]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/4.png)
+<p>004_ Home</p>
+![Diagrama5]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/5.png)
+<p>005_Perfil</p>
+![Diagrama6]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/6.png)
+<p>006_Rutas</p>
+![Diagrama7]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/7.png)
+<p>007_Modelado</p>
+![Diagrama8]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/8.png)
+<p>008_Cerrar Sesión</p>
+![Diagrama9]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/9.png)
 
 <!-- Iniciando -->
 ## Iniciando
