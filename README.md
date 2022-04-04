@@ -2370,7 +2370,162 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 <!-- Casos de prueba -->
 #### Casos de prueba.
 Indicar los casos de prueba
-Inicio de seion
+<table cellspacing="0" border="0">
+	<colgroup width="171"></colgroup>
+	<colgroup width="170"></colgroup>
+	<colgroup width="219"></colgroup>
+	<colgroup width="183"></colgroup>
+	<colgroup width="188"></colgroup>
+	<colgroup width="189"></colgroup>
+	<colgroup width="180"></colgroup>
+	<colgroup width="149"></colgroup>
+	<colgroup width="186"></colgroup>
+	<colgroup width="197"></colgroup>
+	<colgroup width="181"></colgroup>
+	<tr>
+		<td style="border-top: 2px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="21" align="center" valign=bottom bgcolor="#C6EFCE"><font color="#006100">Id </font></td>
+		<td style="border-top: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=bottom bgcolor="#C6EFCE"><font color="#006100">Nombre C.P.</font></td>
+		<td style="border-top: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=bottom bgcolor="#C6EFCE"><font color="#006100">Descripción </font></td>
+		<td style="border-top: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=bottom bgcolor="#C6EFCE"><font color="#006100">Requerimiento </font></td>
+		<td style="border-top: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=bottom bgcolor="#C6EFCE"><font color="#006100">Precondición </font></td>
+		<td style="border-top: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=bottom bgcolor="#C6EFCE"><font color="#006100">Condición de prueba </font></td>
+		<td style="border-top: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=bottom bgcolor="#C6EFCE"><font color="#006100">Prioridad</font></td>
+		<td style="border-top: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=bottom bgcolor="#C6EFCE"><font color="#006100">Fecha</font></td>
+		<td style="border-top: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=bottom bgcolor="#C6EFCE"><font color="#006100">Acción </font></td>
+		<td style="border-top: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=bottom bgcolor="#C6EFCE"><font color="#006100">Resultado </font></td>
+		<td style="border-top: 2px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="center" valign=bottom bgcolor="#C6EFCE"><font color="#006100">Postcondición </font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="95" align="center" valign=middle><font color="#000000">001_Regsitro</font></td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Caso de prueba Registro</font></td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Verficaremos que haga un resgitro adecuado de un usuario nuevo</font></td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Prueba Funcinal</font></td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario,acceso a una sistema inteligente  acceso a un navegador</font></td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario logeado y la contarseña de mismo usuario</font></td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Alta</font></td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="44654" sdnum="1033;0;M/D/YYYY"><font color="#000000">4/3/2022</font></td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Ingresar Datos necesarios en la parte de resgitro de Usaurio nuevo</font></td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Permitio Incorporar datos en el registro y los guardo correctamente</font></td>
+		<td style="border-top: 2px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="center" valign=middle><font color="#000000">Caso pasado</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="95" align="center" valign=middle><font color="#000000">002_Login</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Caso de prueba Login</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Vamos  verificar que el login funcione y nos permita el acceso</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Prueba Funcinal</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario,acceso a una sistema inteligente  acceso a un navegador</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario logeado y la contarseña de mismo usuario</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Alta</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="44654" sdnum="1033;0;M/D/YYYY"><font color="#000000">4/3/2022</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Ingresar usuario y contarseña </font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Permite acceder a la aplicación con los datos que pusimos en el registro</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="center" valign=middle><font color="#000000">Caso pasado</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="95" align="center" valign=middle><font color="#000000">003_Menu lateral</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Caso de prueba despliegue del menu lateral</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Verificar que el menu despegalble que se encuentra en la parte superior Izquierda</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Prueba Funcinal</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario,acceso a una sistema inteligente  acceso a un navegador</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario logeado y la contarseña de mismo usuario</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Alta</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="44654" sdnum="1033;0;M/D/YYYY"><font color="#000000">4/3/2022</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000"> Acceder a la aplicación, Verificar que este el boton este, accionarlo y ver si se despliega </font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Despliega correctamente el menu lateral </font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="center" valign=middle><font color="#000000">Caso pasado</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="109" align="center" valign=middle><font color="#000000">004_ Home</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Caso de Prueba de renderizacion del mapa principal</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Verificar que en la ruta de Home se muestre el mapa con divisiones y la opcion para activar o desactivar simbologia</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Prueba Funcinal</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario,acceso a una sistema inteligente  acceso a un navegador</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario logeado y la contarseña de mismo usuario</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Media</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="44654" sdnum="1033;0;M/D/YYYY"><font color="#000000">4/3/2022</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000"> Acceder a la aplicación, Accionar el menu lateral, seleccionar la opcion de Home, ver si despliega el contenido</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Acciona y accede correctamente a la opcion de Home</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="center" valign=middle><font color="#000000">Caso pasado</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="103" align="center" valign=middle><font color="#000000">005_Perfil</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Caso de Prueba Vista de perfil</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Vamos a verificar que el usuario tenga acceso a los datos de su cuenta</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Prueba Funcinal</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario,acceso a una sistema inteligente  acceso a un navegador</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario logeado y la contarseña de mismo usuario</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Media</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="44654" sdnum="1033;0;M/D/YYYY"><font color="#000000">4/3/2022</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000"> Acceder a la aplicación, Accionar el menu lateral, seleccionar la opcion de Perfil, ver si despliega el contenido</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Acciona y accede correctamente a la opcion de Perfil</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="center" valign=middle><font color="#000000">Caso pasado</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="117" align="center" valign=middle><font color="#000000">006_Rutas</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Caso de Prueba Vista de Rutas</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Verificaremos que haya funcionamiento en las rutas que se saobre ponen de la UTNG</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Prueba Funcinal</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario,acceso a una sistema inteligente  acceso a un navegador</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario logeado y la contarseña de mismo usuario</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Media</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="44654" sdnum="1033;0;M/D/YYYY"><font color="#000000">4/3/2022</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000"> Acceder a la aplicación, Accionar el menu lateral, seleccionar la opcion de Rutas, ver si despliega el contenido</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Acciona y accede correctamente a la opcion de Rutas</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="center" valign=middle><font color="#000000">Caso pasado</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="108" align="center" valign=middle><font color="#000000">007_Modelado</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Caso de Prueba Vista de Modelado</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Verificar que el modelado 3D de la UTNG se renderize y se muestre correctamente</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Prueba Funcinal</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario,acceso a una sistema inteligente  acceso a un navegador</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario logeado y la contarseña de mismo usuario</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Media</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="44654" sdnum="1033;0;M/D/YYYY"><font color="#000000">4/3/2022</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000"> Acceder a la aplicación, Accionar el menu lateral, seleccionar la opcion de Modelado, ver si despliega el contenido</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Acciona y accede correctamente a la opcion de Modelado 3D</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="center" valign=middle><font color="#000000">Caso pasado</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="95" align="center" valign=middle><font color="#000000">008_Cerrar Sesion</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Caso de Prueba cerrar sesion</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Veriricar que el boton de cerrar sesion funcione y cierre la sesion en la que esta</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Prueba Funcinal</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario,acceso a una sistema inteligente  acceso a un navegador</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Tener un usuario logeado y la contarseña de mismo usuario</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Alta</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle sdval="44654" sdnum="1033;0;M/D/YYYY"><font color="#000000">4/3/2022</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000"> Acceder a la aplicación, Accionar el Boton de Cerrar sesion y cierre la sesion</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000">Cierra sesion correctamente</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="center" valign=middle><font color="#000000">Caso pasado</font></td>
+	</tr>
+	<tr>
+		<td height="20" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="20" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=middle><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+</table>
 
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
