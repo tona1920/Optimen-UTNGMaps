@@ -2531,22 +2531,22 @@ Indicar los casos de prueba
 #### Ejecución.
 Evidencia de Ejecución de Casos de prueba.
 <p>001_Regsitro</p>
-![Diagrama1]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/1.png)
-![Diagrama2]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/2.png)
+![Dia1](https://github.com/AlexAlonRo/Modelado-3D/blob/main/1.png)
+![Dia2](https://github.com/AlexAlonRo/Modelado-3D/blob/main/2.png)
 <p>002_Login</p>
-![Diagrama3]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/3.png)
+![Dia3](https://github.com/AlexAlonRo/Modelado-3D/blob/main/3.png)
 <p>003_Menu lateral</p>
-![Diagrama4]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/4.png)
+![Dia4](https://github.com/AlexAlonRo/Modelado-3D/blob/main/4.png)
 <p>004_ Home</p>
-![Diagrama5]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/5.png)
+![Di5](https://github.com/AlexAlonRo/Modelado-3D/blob/main/5.png)
 <p>005_Perfil</p>
-![Diagrama6]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/6.png)
+![Dia6](https://github.com/AlexAlonRo/Modelado-3D/blob/main/6.png)
 <p>006_Rutas</p>
-![Diagrama7]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/7.png)
+![Dia7](https://github.com/AlexAlonRo/Modelado-3D/blob/main/7.png)
 <p>007_Modelado</p>
-![Diagrama8]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/8.png)
+![Dia8](https://github.com/AlexAlonRo/Modelado-3D/blob/main/8.png)
 <p>008_Cerrar Sesión</p>
-![Diagrama9]( https://github.com/AlexAlonRo/Modelado-3D/blob/main/9.png)
+![Di9](https://github.com/AlexAlonRo/Modelado-3D/blob/main/9.png)
 
 <!-- Iniciando -->
 ## Iniciando
