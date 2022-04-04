@@ -2531,6 +2531,16 @@ Indicar los casos de prueba
 #### Ejecución.
 Evidencia de Ejecución de Casos de prueba.
 
+![Diagrama1](https://drive.google.com/drive/u/0/folders/1qSOnCFVRic4JryFsIl6RkxlX2umSEqOv)
+![Diagrama12](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
+![Diagrama3](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
+![Diagrama4](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
+![Diagrama5](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
+![Diagrama6](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
+![Diagrama7](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
+![Diagrama8](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
+![Diagrama9](https://user-images.githubusercontent.com/90641514/161345504-3392bf17-4ea1-4f87-88b8-8efc5d7a32ad.png)
+
 <!-- Iniciando -->
 ## Iniciando
 Iniciando.
