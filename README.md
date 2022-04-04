@@ -2532,23 +2532,24 @@ Indicar los casos de prueba
 <!-- Ejecución Casos de prueba -->
 #### Ejecución.
 Evidencia de Ejecución de Casos de prueba.
-<p>001_Regsitro</p>
-![Image text](https://github.com/AlexAlonRo/Modelado-3D/blob/main/1.png)
-![Dia2](https://github.com/AlexAlonRo/Modelado-3D/blob/main/2.png)
-<p>002_Login</p>
-![Dia3](https://github.com/AlexAlonRo/Modelado-3D/blob/main/3.png)
-<p>003_Menu lateral</p>
-![Dia4](https://github.com/AlexAlonRo/Modelado-3D/blob/main/4.png)
-<p>004_ Home</p>
-![Di5](https://github.com/AlexAlonRo/Modelado-3D/blob/main/5.png)
-<p>005_Perfil</p>
-![Dia6](https://github.com/AlexAlonRo/Modelado-3D/blob/main/6.png)
-<p>006_Rutas</p>
-![Dia7](https://github.com/AlexAlonRo/Modelado-3D/blob/main/7.png)
-<p>007_Modelado</p>
-![Dia8](https://github.com/AlexAlonRo/Modelado-3D/blob/main/8.png)
-<p>008_Cerrar Sesión</p>
-![Di9](https://github.com/AlexAlonRo/Modelado-3D/blob/main/9.png)
+001_Regsitro
+![1](https://user-images.githubusercontent.com/97119823/161609514-396391c1-057f-41b0-999e-f316ea681f15.png)
+![2](https://user-images.githubusercontent.com/97119823/161609534-53a28f21-281a-4101-9da9-4b4bd8762a8d.png)
+002_Login
+![3](https://user-images.githubusercontent.com/97119823/161609546-aab58e03-408d-45fb-9a13-4f65f1f1bafa.png)
+003_Menu lateral
+![4](https://user-images.githubusercontent.com/97119823/161609555-89cd7a24-1a60-4443-812b-07ff16fcb0e6.png)
+004_ Home
+![5](https://user-images.githubusercontent.com/97119823/161609567-c0100f0a-8292-465b-9091-d164ff085b76.png)
+005_Perfil
+![6](https://user-images.githubusercontent.com/97119823/161609574-067061a2-1407-49c0-aa9c-445d5507d2d9.png)
+006_Rutas
+![7](https://user-images.githubusercontent.com/97119823/161609584-456cbb66-be10-4784-963e-eb62f0b30121.png)
+007_Modelado
+![8](https://user-images.githubusercontent.com/97119823/161609595-d2b52528-8d8f-4e42-810a-b1396dbbac3e.png)
+008_Cerrar Sesión
+![9](https://user-images.githubusercontent.com/97119823/161609613-f20a1034-2104-4572-bc62-9a85a3605128.png)
+
 
 <!-- Iniciando -->
 ## Iniciando
