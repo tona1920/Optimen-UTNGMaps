@@ -2345,6 +2345,15 @@ En ésta sección se describe  los artefactos generados en base a la solución.
 <!-- Estándares de Codificación -->
 #### Estándares Codificación.
 Estándares empleados en la codificación
+<p>Separación semántica y de presentación
+<p>Separa la semántica del elemento del efecto del elemento en la representación de su contenido. </p>
+<p>Principio de selección de elementos. </p>
+<p>1._ Menos es más. </p>
+<p>La etiqueta solo debe usarse cuando el contenido requiera semántica. Consejos: pregúntese cómo piensa desempeñar el papel semántico de un elemento. Si no puede responder, no utilice este elemento. </p>
+<p>2._No uses mal los elementos. </p>
+<p>Solo use elementos para su propósito original, no cree su propia semántica. Si no puede encontrar uno adecuado, puede considerar elementos generales (como span o div) y usar la clase de atributo global para indicar su significado. </p>
+<p>3._Específico es mejor, siempre consistente. </p>
+<p>El uso del mismo elemento debe ser coherente en toda la página. </p>
 
 <!-- Arquitectura MVC y Middleware -->
 #### Arquitectura.
