@@ -2323,7 +2323,7 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 
 <!-- Modelo Relacional -->
 #### Modelo Relacional.
-<p>Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc).</p>
+Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc).
 ![10](https://user-images.githubusercontent.com/97119823/161674944-11b4bcaa-9323-4505-908b-d7f8e8f066ff.png)
 
 <!-- Diagrama de Clases -->
