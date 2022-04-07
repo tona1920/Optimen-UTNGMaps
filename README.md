@@ -2511,16 +2511,28 @@ Iniciando.
 
 <!-- Requisitos -->
 ### Requisitos
-Requisitos de Instalación.
+Requisitos de Instalación.<br>
+Tener instalado una versión 14.17.6 en adelante de Nodejs <br>
+Tener innstalado un editor de código <br>
+Tener el repositorio descargado <br>
+Tener acceso a internet <br>
 
 <!-- Instalación -->
 ### Instalacion
 Instalación del Software <br>
 Se debe descargar los datos del github https://github.com/tona1920/Optimen_UTNGMaps <br>
-Abrir en cualquier editor de código y escribir el comando npm installl esto descargara las dependecias necesarias para ejecuatar el proyecto
+Descomprimir el archivo descargado <br>
+Abrir la carpeta en cualquier editor de código <br>
+Abrir una terminal en la direccion de la carpeta obtenida <br>
+Escribir el comando npm installl esto descargara las dependecias necesarias para ejecuatar el proyecto
 
 ## Guias
 Guias de Uso.
+Se utilizan dos comandos dependiendo del uso que se requiera:
+<ol>
+  <li>Para deployar el proyecto se utiliza: npm start</li>
+  <li>Para ejecutar el proyecto de manera desarrollo se utiliza: npm dev run</li>
+</ol>
 
 ## contribucion
 Contribucion.
