@@ -2359,7 +2359,10 @@ Estándares empleados en la codificación
 
 <!-- Arquitectura MVC y Middleware -->
 #### Arquitectura.
-Definir los patrones empleados y de seguridad.
+Podemos definir la arquitectura web como la forma en que las páginas de un sitio web están estructuradas y enlazadas entre sí, de manera lógica y coherente. Una arquitectura web ideal ayuda a los usuarios y a las arañas de los motores de búsqueda a encontrar fácilmente lo que están buscando en un sitio web.
+
+![arquitectura](https://user-images.githubusercontent.com/90641514/162225090-0041830c-2a4d-452d-bcd0-2688e632c507.png)
+
 
 <!-- Código Fuente -->
 #### Código Fuente.
