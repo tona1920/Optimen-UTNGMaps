@@ -2564,9 +2564,9 @@ Requisitos de Instalación.
 
 <!-- Instalación -->
 ### Instalacion
-Instalación del Software
-Se debe descargar los datos del github https://github.com/tona1920/Optimen_UTNGMaps \n
-Abrir en cualquier editor de código y escribir el comando <<npm installl>> esto descargara las dependecias necesarias para ejecuatar el proyecto
+Instalación del Software <br>
+Se debe descargar los datos del github https://github.com/tona1920/Optimen_UTNGMaps <br>
+Abrir en cualquier editor de código y escribir el comando npm installl esto descargara las dependecias necesarias para ejecuatar el proyecto
 
 ## Guias
 Guias de Uso.
